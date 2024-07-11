@@ -6,6 +6,10 @@
 # Tecnologias
 
 - C# com ASP.NET
+- JavaScript
+- Boostrap
+- HTML
+- CSS
 
 # Projeto 
 Telas com funcionalidades no gerenciamento de rotas (Endereços) e funcionalidades:
