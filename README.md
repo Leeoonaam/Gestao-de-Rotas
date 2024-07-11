@@ -5,7 +5,7 @@
 
 # Tecnologias
 
-- C#
+- C# com ASP.NET
 
 # Projeto 
 Telas com funcionalidades no gerenciamento de rotas (Endereços) e funcionalidades:
